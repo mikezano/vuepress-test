@@ -1,5 +1,5 @@
 module.exports ={
-	base: '/vuepress-test',
+	base: '/vuepress-test/',
 	title: 'Sandbox',
 	description: 'Testing',
 	themeConfig:{
