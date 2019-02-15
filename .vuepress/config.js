@@ -11,7 +11,7 @@ module.exports ={
 				'',
 				'frontend',
 				'backend',
-				'last'
+				'last' 
 			]
 		}
 	},
