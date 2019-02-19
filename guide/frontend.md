@@ -1,3 +1,7 @@
+---
+pageClass: frontend-class
+---
+
 # Frontend section
 
 Information relevant to the Frontend section
