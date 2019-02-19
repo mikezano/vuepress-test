@@ -1,6 +1,6 @@
 ---
 image: /example-image.jpg
-title: Example title
+title: Example section
 description: This is the example description for our first post.
 date: 03-25-18 (mm-dd-yy)
 ---
@@ -8,3 +8,5 @@ date: 03-25-18 (mm-dd-yy)
 # Interviews
 
 <Posts page="interviews" />
+
+## subsection

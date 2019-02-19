@@ -9,8 +9,6 @@ module.exports = {
       { text: 'Interviews', link: '/interviews/' },
       { text: 'Stories', link: '/stories/' },
     ],
-    sidebar: {
-      '/guide/': ['', 'frontend', 'backend', 'last'],
-    },
+    sidebar: 'auto',
   },
 };
