@@ -6,7 +6,7 @@ date: 03-25-18 (mm-dd-yy)
 ---
 
 # Interviews
-
+<Badge text="zano" type="warn"/>
 <Posts page="interviews" />
 
 ## subsection

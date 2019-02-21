@@ -1,3 +1,4 @@
+
 <template>
 	<div class="posts" v-if="posts.length">
 		<div class="post" v-for="post in posts">
@@ -9,6 +10,7 @@
 				<p>{{post.frontmatter.description}}</p>
 			</router-link>
 		</div>
+		
 	</div>
 </template>
 
